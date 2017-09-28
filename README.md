@@ -69,4 +69,4 @@ The application base should meet the following minimums:
 
 ### License
 
-I'm licensing this boilerplate under the MOT license so that it is freely used by all. Not that I expect much to be done with it, considering there are a billion other boilerplates out there, but here it is.
+I'm licensing this boilerplate under the MIT license so that it is freely used by all. Not that I expect much to be done with it, considering there are a billion other boilerplates out there, but here it is.
