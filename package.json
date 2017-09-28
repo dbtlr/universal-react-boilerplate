@@ -1,0 +1,20 @@
+{
+  "name": "build-your-own-boilerplate",
+  "version": "1.0.0",
+  "description": "A universal react boilerplate w/ Redux, Webpack, Babel, and Passport authentication",
+  "main": "src/server/index.js",
+  "repository": "https://github.com/dbtlr/universal-react-boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "Express",
+    "Babel",
+    "Passport",
+    "Boilerplate"
+  ],
+  "author": "Drew Butler <hi@dbtlr.com>",
+  "license": "MIT"
+}
